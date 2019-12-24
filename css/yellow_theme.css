@@ -1,0 +1,26 @@
+/****Start yellow****/
+
+/* Active link*/
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .slide1 .carousel-indicators .active, .option-box .gear-check, .features .feat span.glyphicon{
+    background-color: #A19A0D;
+}
+
+.navbar-inverse .navbar-brand span, .about h1 span,.about h3 span, .testimonials span, .footer h3, .footer .copyright span{
+    color: #A19A0D;
+}
+/*Drop down menu*/
+.dropdown-menu{
+    border-top: 3px solid #A19A0D;
+}
+.option-box .color-option, .slide2 .carousel-indicators li.active, .price .price_box:hover p{
+    border: 3px solid #A19A0D;
+}
+
+.testimonials h1{
+    border-bottom: 3px solid #A19A0D;
+}
+.features h1, .price h1, .my-team h1, .subscribe h1, .stats h1, .skills h1, .contact h1{
+    text-decoration-color: #A19A0D;
+    text-decoration-line: underline;
+}
+/****End yellow****/
